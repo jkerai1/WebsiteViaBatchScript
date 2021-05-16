@@ -1,4 +1,4 @@
 @ECHO OFF
-SET BROWSER=msedge.exe
+SET BROWSER=firefox.exe
 START %BROWSER% -new-tab "https://duckduckgo.com/"
 exit
