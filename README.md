@@ -6,6 +6,7 @@ Can open multiple tabs in the same window and specify which browser to open with
 e.g to open DuckDuckGo and Youtube:
 
   START %BROWSER% -new-tab "https://duckduckgo.com/"
+  
   START %BROWSER% -new-tab "https://youtube.com/"
 	
 	
