@@ -9,6 +9,6 @@ e.g to open DuckDuckGo and Youtube:
   START %BROWSER% -new-tab "https://youtube.com/"
 	
 	
-	open with edge:
+open with edge:
 	
 	SET BROWSER=msedge.exe
